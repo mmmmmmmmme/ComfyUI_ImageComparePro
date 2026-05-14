@@ -1,0 +1,5 @@
+# ComfyUI Image Compare Pro
+# no extra dependencies needed
+pillow>=10.0.0
+numpy>=1.24.0
+torch>=2.0.0
